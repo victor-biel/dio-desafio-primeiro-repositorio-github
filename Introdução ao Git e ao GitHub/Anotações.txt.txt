@@ -1,0 +1,9 @@
+- Aprender comandos como: Git add *, Git add -A, Git add .
+(Passar do modúlo Working directory para Starging Area)
+- Aprender comando: git commit -m "Anotação/mensagem"
+(Passar do modúlo Starging Area para Local Repository)
+Obs: É importante deixar uma mensagem quando se fazer o commit para sinalizar o que foi feito.
+-Aprender comando: git pull origin master 
+(É um comando usado para atualizar a versão local de um repositório a partir de uma versão remota)
+-Aprender comando: git push origin main
+(Como o nome já diz, é um comando utilizado para "Empurrar" para efetuar push das alterações locais para o repositório online)
