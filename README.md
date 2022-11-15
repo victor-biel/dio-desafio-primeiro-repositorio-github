@@ -3,6 +3,6 @@
 Repositório criado exclusivamente para o Desafio de Projeto
 
 - Links Úteis
-  - [Markdown] (https://www.markdownguide.org/basic-syntax/)
-  - [Download Git] (https://git-scm.com/downloads)
+  - [Markdown](https://www.markdownguide.org/basic-syntax/)
+  - [Download Git](https://git-scm.com/downloads)
 
